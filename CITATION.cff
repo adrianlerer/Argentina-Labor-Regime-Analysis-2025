@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this analysis framework or data, please cite it as below."
+type: dataset
+title: "Quadruple Constitutional Lock-In: Why Argentina Cannot Reform Its Labor Regime While Brazil, Spain, and Chile Succeeded"
+authors:
+  - family-names: "Lerer"
+    given-names: "Adrian"
+    email: "adrianlerer@example.com"
+    affiliation: "Independent Researcher"
+abstract: "This working paper introduces a novel theoretical framework explaining Argentina's 100% labor reform failure rate (23 attempts, 1991-2025) through a quadruple lock-in model: Constitutional Architecture, Treaty Hierarchy, Judicial Doctrine, and Federal Fragmentation. Using a Constitutional Lock-in Index (CLI=0.87), Lyapunov stability analysis, and comparative constitutional analysis across four countries, we prove mathematical irreversibility and predict 12.4% success probability for Milei's upcoming reform attempts. The analysis includes empirical datasets (historical reforms, CSJN jurisprudence, zombie CCT census), executable Bayesian prediction models, and complete replication materials."
+keywords:
+  - constitutional lock-in
+  - labor reform
+  - Argentina
+  - institutional irreversibility
+  - judicial doctrine
+  - comparative constitutional law
+  - system dynamics
+  - Bayesian prediction
+version: 1.0.0
+date-released: 2025-10-17
+license: CC-BY-4.0
+repository-code: "https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025"
+url: "https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025"
+preferred-citation:
+  type: working-paper
+  authors:
+    - family-names: "Lerer"
+      given-names: "Adrian"
+  title: "Quadruple Constitutional Lock-In: Why Argentina Cannot Reform Its Labor Regime While Brazil, Spain, and Chile Succeeded - How Constitutional Architecture, Treaty Hierarchy, Judicial Doctrine, and Federal Fragmentation Create an Unreformable System"
+  year: 2025
+  url: "https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025"
+  keywords:
+    - "constitutional lock-in"
+    - "labor reform"
+    - "Argentina"
+    - "institutional irreversibility"
+  notes: "SSRN Working Paper - Forthcoming"
