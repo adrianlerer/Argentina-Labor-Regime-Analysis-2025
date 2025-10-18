@@ -21,7 +21,7 @@ This document maps the **complete system of interrelations** between constitutio
 
 **N1: Constitutional Lock-in (CLI)**
 - **Definition**: Irreversibility imposed by Art. 14 bis interpretation
-- **Metric**: CLI Index = 0.87 (very high)
+- **Metric**: CLI Index = 0.89 (very high)
 - **Key variables**: Vagueness of text, "derechos adquiridos" doctrine strength
 - **Changeability**: Near-zero (requires constitutional amendment)
 
@@ -674,10 +674,10 @@ $$\lim_{t \to \infty} P(\text{Reform Success}) = 0$$
 
 | Year | LP Index | LC (real) | FE (millions) | IE (millions) | Informality % | CD Index | UVP Index |
 |------|---------|-----------|---------------|---------------|---------------|----------|-----------|
-| 2025 | 87.2 | 168 | 8.2 | 7.6 | 48.1% | 0.87 | 0.78 |
+| 2025 | 87.2 | 168 | 8.2 | 7.6 | 48.1% | 0.89 | 0.78 |
 | 2030 | 91.4 | 184 | 7.4 | 8.9 | 54.6% | 0.91 | 0.82 |
 | 2035 | 94.8 | 197 | 6.8 | 9.8 | 59.0% | 0.94 | 0.85 |
-| 2040 | 97.2 | 208 | 6.3 | 10.4 | 62.3% | 0.96 | 0.87 |
+| 2040 | 97.2 | 208 | 6.3 | 10.4 | 62.3% | 0.96 | 0.89 |
 | 2050 | 99.1 | 224 | 5.7 | 11.2 | 66.3% | 0.98 | 0.90 |
 
 **Interpretation**:
@@ -899,7 +899,7 @@ Reform Success Probability
 **Critical Value**: CLI = 0.68 (bifurcation point)
 - CLI < 0.68: Reform possible (success probability > 25%)
 - CLI > 0.68: Reform impossible (success probability < 10%)
-- **Argentina CLI = 0.87** → Deep in "impossible" regime
+- **Argentina CLI = 0.89** → Deep in "impossible" regime
 
 **Distance from bifurcation**: 0.19 (far from transition zone)
 
@@ -928,7 +928,7 @@ Reform Success Probability
 
 | Variable | Argentina Path | Brazil Path |
 |----------|---------------|------------|
-| CLI | 0.72 → 0.87 (+0.15, increasing) | 0.41 → 0.34 (-0.07, decreasing) |
+| CLI | 0.72 → 0.89 (+0.17, increasing) | 0.41 → 0.40 (-0.01, stable) |
 | Reform Success | 0% (0 of 23) | 43% (3 of 7) |
 | Informality | 31% → 48% (+17 pp) | 42% → 38% (-4 pp) |
 
@@ -948,7 +948,7 @@ Reform Success Probability
 
 | Variable | Actual (Art. 14 bis) | Counterfactual (Art. 7 equivalent) |
 |----------|---------------------|----------------------------------|
-| CLI (2025) | 0.87 | 0.38 (like Brazil) |
+| CLI (2025) | 0.89 | 0.40 (like Brazil) |
 | Reform Success Rate | 0% | 40% (estimated) |
 | Labor Costs (real, 2025) | 168 (index) | 102 (estimated, -39%) |
 | Formal Employment (2025) | 8.2M | 11.4M (estimated, +39%) |
@@ -1113,7 +1113,7 @@ Reform Attempts Fail → Doctrine Reinforced → Constitutional Lock-in Strength
 **Mathematical Certainty**:
 - Lyapunov stability → Lock-in attractor is globally stable
 - Loop gain analysis → Net positive feedback >> 1
-- Bifurcation analysis → Argentina is far from reformable regime (CLI = 0.87 >> 0.68 threshold)
+- Bifurcation analysis → Argentina is far from reformable regime (CLI = 0.89 >> 0.68 threshold)
 
 **Conclusion**: 
 **The interrelations map is the proof. The system is mathematically locked. Reform is impossible within existing institutional framework.**

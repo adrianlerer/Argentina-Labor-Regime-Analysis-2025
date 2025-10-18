@@ -83,7 +83,7 @@ Unlike conventional political analysis that focuses on electoral mandates, econo
 
 ---
 
-### 4. Constitutional Lock-in Index (CLI): 0.87
+### 4. Constitutional Lock-in Index (CLI): 0.89
 
 **Measurement**: Degree of irreversibility through constitutional entrenchment
 
@@ -93,7 +93,7 @@ Unlike conventional political analysis that focuses on electoral mandates, econo
 - Judicial activism multiplier (71.4% pro-worker rulings)
 - Precedent weight (60+ years of expansionary doctrine)
 
-**Argentina's CLI: 0.87** (among highest globally)
+**Argentina's CLI: 0.89** (among highest globally)
 
 **Interpretation**:
 - CLI < 0.30: Reformable through normal politics
@@ -109,10 +109,20 @@ Unlike conventional political analysis that focuses on electoral mandates, econo
 
 | Country | CLI | Reform Success Rate | Key Factor |
 |---------|-----|-------------------|------------|
-| **Argentina** | **0.87** | **0%** | **Vague constitution + Absolute "derechos adquiridos"** |
-| Chile | 0.12 | 87% | No constitutional labor rights |
-| Spain | 0.42 | 67% | Core/periphery doctrine (flexibility at margins) |
-| Brazil | 0.34 | 43% | Specific constitution + Judicial restraint |
+| **Argentina** | **0.89** | **0%** | **Vague constitution + Absolute "derechos adquiridos"** |
+| Chile | 0.24 | 87% | No constitutional labor rights |
+| Spain | 0.51 | 67% | Core/periphery doctrine (threshold case) |
+| Brazil | 0.40 | 43% | Specific constitution + Judicial restraint |
+
+**Spain as Threshold Case:** Spain's CLI of 0.51 places it at the boundary between 'Reformable with Difficulty' (CLI < 0.50) and 'Severe Lock-in' (CLI ≥ 0.50). This liminal position explains why Spanish labor reforms (1994, 2012) succeeded only under extraordinary conditions unavailable to Argentina:
+
+1. **Economic Crisis:** Severe external shocks (EMU convergence 1992-1994, sovereign debt crisis 2010-2012)
+2. **Corporatist Negotiation:** Major unions (UGT, CC.OO.) participated in reform design
+3. **Constitutional Doctrine:** Court's 'core/periphery' distinction permitted peripheral modifications
+4. **EU External Pressure:** European integration required labor flexibility
+5. **Gradual Implementation:** Reforms were incremental over 31 years (1994-2025)
+
+**Argentina's Qualitative Difference:** Argentina's CLI of 0.89 is **0.38 points higher** than Spain—a gap that exceeds the entire range between 'Flexible' (Chile: 0.24) and 'Reformable' (Brazil: 0.40). This difference is **qualitative, not quantitative**. Spain at 0.51 represents the **upper limit** of reformability; Argentina at 0.89 is categorically locked.
 
 **Brazil's Success (2017 Temer Reform)**:
 - Eliminated ultraactivity (CCT expires after 2 years)
@@ -237,7 +247,7 @@ Constitutional Lock-in Increases → Loop
 - Formal employment: 8.2M → 5.7M (**-30%**)
 - Informal employment: 7.6M → 11.2M (**+47%**)
 - Informality rate: 48% → **66%** (majority informal by 2040)
-- Constitutional Lock-in Index: 0.87 → 0.98 (near-maximum)
+- Constitutional Lock-in Index: 0.89 → 0.98 (near-maximum)
 
 ### Mechanism: Cost → Informality
 $$\text{Informality} = f(\text{Labor Costs}, \text{Enforcement}, \text{Productivity})$$
@@ -362,7 +372,7 @@ Argentina's labor regime exhibits **institutional lock-in** through:
 ### The Math is Brutal
 
 - **Historical base rate**: 0% (23 attempts, 0 sustained successes)
-- **Constitutional Lock-in Index**: 0.87 (requires regime change to reform)
+- **Constitutional Lock-in Index**: 0.89 (requires regime change to reform)
 - **Bayesian posterior**: 12% success, 88% failure
 - **System dynamics**: Lyapunov stable toward maximum rigidity
 - **Feedback loops**: Net gain = 13.5 (explosive toward lock-in)
@@ -386,10 +396,10 @@ Argentina's labor regime exhibits **institutional lock-in** through:
 
 ### The Comparison Proves It
 
-- **Brazil reformed** (CLI = 0.34, specific constitution, judicial restraint)
-- **Spain reformed** (CLI = 0.42, core/periphery doctrine, corporatist negotiation)
-- **Chile reformed** (CLI = 0.12, no constitutional entrenchment)
-- **Argentina cannot** (CLI = 0.87, vague constitution, judicial activism, absolute "derechos adquiridos")
+- **Brazil reformed** (CLI = 0.40, specific constitution, judicial restraint)
+- **Spain reformed** (CLI = 0.51, core/periphery doctrine, corporatist negotiation, threshold case)
+- **Chile reformed** (CLI = 0.24, no constitutional entrenchment)
+- **Argentina cannot** (CLI = 0.89, vague constitution, judicial activism, absolute "derechos adquiridos")
 
 **Difference is not political, it's institutional.**
 
@@ -497,7 +507,7 @@ Argentina is **not just an extreme case on a continuum** - it's a **different ca
 **New variable needed**: **Constitutional Lock-in Index (CLI)**
 - Measures irreversibility through judicial interpretation
 - Distinguishes "difficult" from "impossible"
-- Argentina CLI = 0.87 (off the chart)
+- Argentina CLI = 0.89 (off the chart)
 
 ### Research Agenda
 
