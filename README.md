@@ -64,7 +64,7 @@ This paper identifies and quantifies a unique **quadruple constitutional lock-in
 3. **Judicial Doctrine Lock-in** ("Derechos adquiridos" absolutism → irreversibility)
 4. **Federal Fragmentation Lock-in** (Provincial courts + CGT monopoly → multi-veto system)
 
-**Key Finding**: Argentina's Constitutional Lock-in Index (CLI) of 0.87 places it in the "regime change required" category, while Brazil (0.34), Spain (0.42), and Chile (0.12) remain in reformable ranges. Historical reform success rate: **0%** (n=23). Predicted probability of Milei's post-2025 reform: **12-15%**. The system converges to maximum rigidity via 8 reinforcing feedback loops (net gain = 13.5).
+**Key Finding**: Argentina's Constitutional Lock-in Index (CLI) of 0.89 places it in the "regime change required" category, while Brazil (0.40), Spain (0.51), and Chile (0.24) remain in reformable ranges. Historical reform success rate: **0%** (n=23). Predicted probability of Milei's post-2025 reform: **12-15%**. The system converges to maximum rigidity via 8 reinforcing feedback loops (net gain = 13.5).
 
 **JEL Codes**: K31 (Labor Law), K10 (Constitutional Law), O54 (Latin America), P48 (Legal Institutions)
 
@@ -101,7 +101,7 @@ This paper identifies and quantifies a unique **quadruple constitutional lock-in
 - **Mechanism**: Vague constitutional text → Maximum judicial discretion → Expansionary interpretation
 - **Argentina**: Art. 14 bis (1957) - "condiciones dignas," "retribución justa," "protección contra despido arbitrario" (all undefined)
 - **Brazil**: Art. 7 CF/88 - 34 specific sub-articles with numerical limits (e.g., "8 hours daily, 44 weekly")
-- **Effect**: Argentina CLI = 0.87 vs. Brazil CLI = 0.34
+- **Effect**: Argentina CLI = 0.89 vs. Brazil CLI = 0.40
 
 **Dimension 2: Treaty Hierarchy Lock-in**
 
@@ -130,9 +130,9 @@ This paper identifies and quantifies a unique **quadruple constitutional lock-in
 
 $$\text{Total Lock-in} = \text{CLI} \times \text{THL} \times \text{JDL} \times \text{FFL}$$
 
-**Argentina**: $0.87 \times 0.92 \times 0.84 \times 0.78 = 0.52$ (effective lock-in)
+**Argentina**: $0.89 \times 0.92 \times 0.84 \times 0.78 = 0.54$ (effective lock-in)
 
-**Brazil**: $0.34 \times 0.42 \times 0.54 \times 0.31 = 0.02$ (reformable)
+**Brazil**: $0.40 \times 0.42 \times 0.54 \times 0.31 = 0.03$ (reformable)
 
 **Implication**: Even if Argentina eliminated ONE lock-in dimension, three remain → Still locked
 
@@ -183,12 +183,26 @@ $$\text{Total Lock-in} = \text{CLI} \times \text{THL} \times \text{JDL} \times \
 
 | Country | Text Vagueness | Treaty Hierarchy | Judicial Activism | Precedent Weight | **CLI** |
 |---------|---------------|-----------------|------------------|------------------|---------|
-| **Argentina** | **0.90** | **0.92** | **0.84** | **0.83** | **0.87** |
-| Brazil | 0.22 | 0.48 | 0.54 | 0.61 | 0.34 |
-| Spain | 0.48 | 0.52 | 0.52 | 0.58 | 0.42 |
-| Chile | 0.10 | 0.25 | 0.48 | 0.32 | 0.12 |
+| **Argentina** | **0.90** | **0.92** | **0.84** | **0.83** | **0.89** |
+| Brazil | 0.22 | 0.48 | 0.54 | 0.61 | 0.40 |
+| Spain | 0.48 | 0.52 | 0.52 | 0.58 | 0.51 |
+| Chile | 0.10 | 0.25 | 0.48 | 0.32 | 0.24 |
 
-**Interpretation**: CLI > 0.70 = "Regime change required" category
+**Interpretation**: 
+- CLI < 0.30: Flexible Regime (Chile)
+- CLI 0.30-0.50: Reformable with Difficulty (Brazil)
+- CLI 0.50-0.70: Severe Lock-in (Spain - threshold case)
+- CLI > 0.70: Regime Change Required (Argentina)
+
+**Spain as Threshold Case:** Spain's CLI of 0.51 places it at the boundary between 'Reformable with Difficulty' (CLI < 0.50) and 'Severe Lock-in' (CLI ≥ 0.50). This liminal position explains why Spanish labor reforms (1994, 2012) succeeded only under extraordinary conditions unavailable to Argentina:
+
+1. **Economic Crisis:** Severe external shocks (EMU convergence 1992-1994, sovereign debt crisis 2010-2012)
+2. **Corporatist Negotiation:** Major unions (UGT, CC.OO.) participated in reform design
+3. **Constitutional Doctrine:** Court's 'core/periphery' distinction permitted peripheral modifications
+4. **EU External Pressure:** European integration required labor flexibility
+5. **Gradual Implementation:** Reforms were incremental over 31 years (1994-2025)
+
+**Argentina's Qualitative Difference:** Argentina's CLI of 0.89 is **0.38 points higher** than Spain—a gap that exceeds the entire range between 'Flexible' (Chile: 0.24) and 'Reformable' (Brazil: 0.40). This difference is **qualitative, not quantitative**. Spain at 0.51 represents the **upper limit** of reformability; Argentina at 0.89 is categorically locked.
 
 #### Dataset 4: Ultraactivity Zombie CCT Analysis
 
@@ -464,7 +478,7 @@ $$P(\text{Success}) = \sum_{i} P(\text{Scenario}_i) \times P(\text{Success}|\tex
 
 | Year | CLI | Labor Costs (Index) | Formal Employment (M) | Informal Employment (M) | Informality (%) |
 |------|-----|-------------------|---------------------|----------------------|----------------|
-| 2025 | 0.87 | 168 | 8.2 | 7.6 | 48.1% |
+| 2025 | 0.89 | 168 | 8.2 | 7.6 | 48.1% |
 | 2030 | 0.91 | 184 | 7.4 | 8.9 | 54.6% |
 | 2035 | 0.94 | 197 | 6.8 | 9.8 | 59.0% |
 | 2040 | 0.96 | 208 | 6.3 | 10.4 | 62.3% |

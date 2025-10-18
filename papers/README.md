@@ -46,7 +46,7 @@ Demonstrates that Argentina's labor regime exhibits **irreversible institutional
 
 **Mathematical Proof**: Lyapunov stability analysis shows system converges to maximum rigidity (V̇ < 0 globally)
 
-**Comparative Analysis**: Brazil (CLI=0.34), Spain (0.42), Chile (0.12) exhibit reformable morphology vs. Argentina (CLI=0.87)
+**Comparative Analysis**: Brazil (CLI=0.40), Spain (0.51), Chile (0.24) exhibit reformable morphology vs. Argentina (CLI=0.89)
 
 ---
 
