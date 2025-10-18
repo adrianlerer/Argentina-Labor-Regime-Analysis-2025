@@ -1,11 +1,57 @@
-# Quadruple Constitutional Lock-In: Why Argentina Cannot Reform Its Labor Regime While Brazil, Spain, and Chile Succeeded
+# Constitutional Lock-in and the Phenotypic Expression of Legal Regimes
 
-## Replication Package for SSRN Working Paper
+## Argentina's Labor Market as Irreversible Institutional Morphology
 
-**Author**: Adrian Lerer  
+### Replication Package for SSRN Working Paper
+
+**Author**: Ignacio Adrián Lerer  
 **Institution**: Independent Researcher  
-**Date**: October 2025  
+**Credentials**: Attorney (UBA), Executive MBA (IAE Business School, Universidad Austral)  
+**Email**: adrian@lerer.com.ar  
+**ORCID**: https://orcid.org/0009-0007-6378-9749  
+**Date**: September 2025  
+**Version**: 1.0  
 **SSRN Paper**: [Link to be added upon publication]
+
+**Official Paper**: [`papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx`](papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx)
+
+---
+
+## Note on Framework
+
+This working paper applies the **IusMorfos framework**—previously developed in Lerer (2025a-f) to analyze constitutional law as extended phenotype—to explain why Argentina's labor regime exhibits irreversible institutional morphology while Brazil, Spain, and Chile successfully reformed comparable systems.
+
+**IusMorfos Framework**: Analyzes legal regimes as phenotypic expressions of constitutional architecture, where institutional lock-in represents morphological irreversibility at the constitutional level.
+
+**Related Papers**:
+- Lerer (2025a-f): IusMorfos framework development (constitutional law as extended phenotype)
+- This paper: Application to Argentina's labor market path dependency
+
+---
+
+## About This Repository
+
+This repository contains:
+
+1. **Official SSRN Paper** (v4 final): `papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx`
+   - Formal academic manuscript for SSRN publication
+   - Applies IusMorfos framework to Argentina labor lock-in
+   - Author: Ignacio Adrián Lerer
+
+2. **Replication Materials**: Complete data, code, and analysis supporting the paper
+   - Historical reform database (n=23, 1991-2025)
+   - Constitutional Lock-in Index (CLI) methodology and calculations
+   - Bayesian prediction model for Milei's post-2025 reform
+   - Comparative constitutional analysis (Argentina, Brazil, Spain, Chile)
+   - System dynamics network analysis (Lyapunov stability proof)
+
+3. **Extended Analysis Documents**: Supplementary materials expanding on key mechanisms
+   - ART civil litigation failure paradigm (1995-2004)
+   - Ultraactivity ratchet model (zombie CCT analysis)
+   - Interrelations system map (8 reinforcing loops, net gain = 13.5)
+   - AI-assisted methodology notes (Choi & Schwarcz 2023 framework)
+
+**All materials are fully reproducible and open access (CC-BY-4.0 license).**
 
 ---
 
@@ -717,28 +763,32 @@ Standard models (Drazen & Grilli 1993; Tommasi & Velasco 1996):
 **For academic citation**:
 
 ```bibtex
-@techreport{lerer2025quadruple,
-  title={Quadruple Constitutional Lock-In: Why Argentina Cannot Reform Its Labor Regime While Brazil, Spain, and Chile Succeeded},
-  author={Lerer, Adrian},
+@techreport{lerer2025constitutional,
+  title={Constitutional Lock-in and the Phenotypic Expression of Legal Regimes: Argentina's Labor Market as Irreversible Institutional Morphology},
+  author={Lerer, Ignacio Adri\'an},
   institution={Independent Researcher},
   year={2025},
+  month={September},
   type={SSRN Working Paper},
+  note={An IusMorfos Framework Application to Path Dependencies in Latin American Constitutional Political Economy (1991-2025)},
   url={https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025}
 }
 ```
 
 **For policy/media citation**:
 
-Lerer, Adrian (2025). "Quadruple Constitutional Lock-In: Why Argentina Cannot Reform Its Labor Regime While Brazil, Spain, and Chile Succeeded." SSRN Working Paper. Available at: https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025
+Lerer, Ignacio Adrián (2025). "Constitutional Lock-in and the Phenotypic Expression of Legal Regimes: Argentina's Labor Market as Irreversible Institutional Morphology." SSRN Working Paper. Available at: https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025
 
 ---
 
 ## Contact & Collaboration
 
-**Author**: Adrian Lerer  
-**Email**: [To be added]  
+**Author**: Ignacio Adrián Lerer  
+**Email**: adrian@lerer.com.ar  
+**ORCID**: https://orcid.org/0009-0007-6378-9749  
 **GitHub**: https://github.com/adrianlerer  
-**SSRN**: [Profile link to be added]
+**SSRN**: [Profile link to be added]  
+**Credentials**: Attorney (UBA), Executive MBA (IAE Business School, Universidad Austral)
 
 **Collaboration Welcome**:
 - Data access requests (all data publicly available in repository)
