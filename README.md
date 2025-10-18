@@ -671,6 +671,76 @@ Standard models (Drazen & Grilli 1993; Tommasi & Velasco 1996):
 
 ---
 
+## Methodological Note: AI-Assisted Legal Analysis
+
+### Context: AI in Constitutional Research
+
+This working paper engages with the emerging debate on AI-assisted legal scholarship (Choi & Schwarcz 2023). Recent empirical research demonstrates that:
+
+1. **AI assistance enhances straightforward legal analysis** but has minimal impact on complex constitutional reasoning
+2. **Prompting methodology matters**: "Grounded" prompts (with source materials) outperform basic prompts
+3. **Skill-level dependent effects**: AI disproportionately benefits non-experts, with **equalizing implications** for access to sophisticated legal analysis
+
+### This Paper's Approach: Grounded Prompting Framework
+
+Our analysis employs a **human-supervised, grounded prompting methodology**:
+
+**Source Materials Provided**:
+- Constitutional text (Art. 14 bis CN, Art. 75 inc. 22 CN, comparative constitutions)
+- CSJN jurisprudence database (n=1,247 labor rulings, 1983-2025)
+- Historical reform attempts (n=23, with detailed legal instruments)
+- Comparative case law (Brazil STF, Spain TC, Chile TC)
+
+**Analytical Chain-of-Thought**:
+1. **Text analysis**: Constitutional vagueness quantification (CLI dimension 1)
+2. **Treaty hierarchy mapping**: Art. 75 inc. 22 interaction with ILO conventions (CLI dimension 2)
+3. **Doctrinal analysis**: "Derechos adquiridos" case synthesis (CLI dimension 3)
+4. **Federal fragmentation modeling**: Provincial court veto point analysis (CLI dimension 4)
+5. **System integration**: Multiplicative interaction effects (Lyapunov stability)
+
+**Human Validation**:
+- Cross-checked with comparative constitutional law literature
+- Empirical validation through 100% failure rate (n=23 reforms)
+- Mathematical validation through Lyapunov stability analysis
+- Bayesian model validation through Monte Carlo simulation (n=10,000)
+
+### Accessibility Implications
+
+The **equalizing effect** of AI-assisted legal analysis (Choi & Schwarcz 2023) has implications for this framework:
+
+**For Policymakers**:
+- Non-specialist government analysts can use AI with this framework to understand constitutional lock-in
+- Caveat: Complex constitutional reasoning still requires domain expertise to avoid AI hallucinations
+
+**For Civil Society**:
+- Advocacy groups can leverage AI-grounded prompting with our source materials (data/ directory)
+- Replication: Use CSJN database + constitutional text as grounding → generate CLI calculations
+
+**For International Organizations**:
+- IMF/World Bank/ILO researchers can apply CLI methodology to other countries
+- Exportable framework: Substitute Argentina materials with target country constitutions/jurisprudence
+
+**Limitations of AI Assistance**:
+- AI performs poorly on **novel theoretical frameworks** (e.g., our 4-dimension lock-in model required human insight)
+- AI struggles with **counterfactual reasoning** (e.g., "what if Brazil adopted Art. 14 bis?")
+- AI cannot replace **domain expertise** for validating Lyapunov stability proofs or Markov models
+
+### Replication Package
+
+All analysis is **fully reproducible** with or without AI assistance:
+
+1. **Data**: Complete datasets in `data/` directory (CSV format)
+2. **Code**: Executable Python models in `models/` directory (Bayesian predictor, dashboard)
+3. **Prompts**: Analytical chain documented in `analysis/` markdown files
+4. **Validation**: Monte Carlo simulations, sensitivity analyses included
+
+Researchers can:
+- **Replicate with AI**: Use grounded prompting with our source materials
+- **Replicate without AI**: Traditional comparative constitutional analysis using same sources
+- **Compare approaches**: Validate if AI-assisted analysis reaches same conclusions
+
+---
+
 ## Limitations & Future Research
 
 ### Limitations
@@ -709,6 +779,26 @@ Standard models (Drazen & Grilli 1993; Tommasi & Velasco 1996):
 5. **Prediction Validation**: Test model after Milei's post-2025 reform attempt
    - Model predicts: 88% failure probability within 2 years
    - Falsifiable: If reform succeeds and sustains 3+ years, model is wrong
+
+---
+
+## References
+
+### Methodological Foundations
+
+**AI-Assisted Legal Analysis**:
+- Choi, Jonathan H. & Daniel Schwarcz (2023). "AI Assistance in Legal Analysis: An Empirical Study." SSRN Working Paper 4539836. Available at: https://ssrn.com/abstract=4539836
+  - Key finding: AI assistance has equalizing effect, benefiting non-experts disproportionately
+  - Relevance: Informs accessibility implications of this framework for policymakers
+
+**Comparative Constitutional Law**:
+- [Additional references to be added]
+
+**Institutional Economics**:
+- [Additional references to be added]
+
+**Labor Market Economics**:
+- [Additional references to be added]
 
 ---
 
