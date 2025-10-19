@@ -4,7 +4,8 @@
 
 **Author**: Ignacio Adrián Lerer  
 **Date**: October 2025  
-**Version**: 5 (CLI values corrected)
+**Version**: 5 (CLI values corrected)  
+**SSRN**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710
 
 ---
 
@@ -327,7 +328,9 @@ When using these v5 corrected figures, cite:
   year={2025},
   month={October},
   type={SSRN Working Paper},
-  note={Version 5: CLI values corrected based on final constitutional text analysis}
+  note={Version 5: CLI values corrected based on final constitutional text analysis},
+  url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710},
+  abstract_id={5624710}
 }
 ```
 

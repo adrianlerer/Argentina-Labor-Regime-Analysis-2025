@@ -9,11 +9,13 @@
 **Credentials**: Attorney (UBA), Executive MBA (IAE Business School, Universidad Austral)  
 **Email**: adrian@lerer.com.ar  
 **ORCID**: https://orcid.org/0009-0007-6378-9749  
-**Date**: September 2025  
-**Version**: 1.0  
-**SSRN Paper**: [Link to be added upon publication]
+**Date**: October 2025  
+**Version**: 5 (CLI values corrected)  
+**SSRN Paper**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710
 
-**Official Paper**: [`papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx`](papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx)
+**Official Paper**: 
+- **SSRN Publication**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710
+- **Working Manuscript**: [`papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx`](papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx)
 
 ---
 
@@ -33,10 +35,12 @@ This working paper applies the **IusMorfos framework**—previously developed in
 
 This repository contains:
 
-1. **Official SSRN Paper** (v4 final): `papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx`
-   - Formal academic manuscript for SSRN publication
+1. **Official SSRN Paper** (v5 published): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710
+   - Formal academic manuscript published on SSRN
    - Applies IusMorfos framework to Argentina labor lock-in
+   - CLI values corrected (v5): Argentina 0.89, Brazil 0.40, Spain 0.51, Chile 0.24
    - Author: Ignacio Adrián Lerer
+   - Working manuscript: `papers/Quadruple_Constitutional_Lock_in_Argentina_Labor_v4_SSRN.docx`
 
 2. **Replication Materials**: Complete data, code, and analysis supporting the paper
    - Historical reform database (n=23, 1991-2025)
@@ -782,16 +786,17 @@ Standard models (Drazen & Grilli 1993; Tommasi & Velasco 1996):
   author={Lerer, Ignacio Adri\'an},
   institution={Independent Researcher},
   year={2025},
-  month={September},
+  month={October},
   type={SSRN Working Paper},
-  note={An IusMorfos Framework Application to Path Dependencies in Latin American Constitutional Political Economy (1991-2025)},
-  url={https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025}
+  note={An IusMorfos Framework Application to Path Dependencies in Latin American Constitutional Political Economy (1991-2025). Version 5 with corrected CLI values.},
+  url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710},
+  abstract_id={5624710}
 }
 ```
 
 **For policy/media citation**:
 
-Lerer, Ignacio Adrián (2025). "Constitutional Lock-in and the Phenotypic Expression of Legal Regimes: Argentina's Labor Market as Irreversible Institutional Morphology." SSRN Working Paper. Available at: https://github.com/adrianlerer/Argentina-Labor-Regime-Analysis-2025
+Lerer, Ignacio Adrián (2025). "Constitutional Lock-in and the Phenotypic Expression of Legal Regimes: Argentina's Labor Market as Irreversible Institutional Morphology." SSRN Working Paper No. 5624710. Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710
 
 ---
 
@@ -801,7 +806,7 @@ Lerer, Ignacio Adrián (2025). "Constitutional Lock-in and the Phenotypic Expres
 **Email**: adrian@lerer.com.ar  
 **ORCID**: https://orcid.org/0009-0007-6378-9749  
 **GitHub**: https://github.com/adrianlerer  
-**SSRN**: [Profile link to be added]  
+**SSRN**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710  
 **Credentials**: Attorney (UBA), Executive MBA (IAE Business School, Universidad Austral)
 
 **Collaboration Welcome**:
@@ -835,7 +840,14 @@ All errors and interpretations are my own.
 
 ## Version History
 
-- **v1.0** (October 2025): Initial public release
+- **v1.0** (October 17, 2025): Initial public release
+- **v5** (October 18, 2025): CLI values corrected after final constitutional text analysis
+  - Argentina: 0.87 → 0.89 (+0.02)
+  - Brazil: 0.34 → 0.40 (+0.06)
+  - Spain: 0.42 → 0.51 (+0.09) - crosses 0.50 threshold
+  - Chile: 0.12 → 0.24 (+0.12)
+  - Figures 2 and 3 regenerated with corrected values
+  - Published to SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710
 - Subsequent versions will be posted as working paper evolves
 
 ---

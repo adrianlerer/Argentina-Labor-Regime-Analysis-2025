@@ -4,7 +4,8 @@
 
 **Date**: October 18, 2025  
 **Author**: Ignacio Adrián Lerer  
-**Paper**: Constitutional Lock-in and the Phenotypic Expression of Legal Regimes: Argentina's Labor Market as Irreversible Institutional Morphology
+**Paper**: Constitutional Lock-in and the Phenotypic Expression of Legal Regimes: Argentina's Labor Market as Irreversible Institutional Morphology  
+**SSRN**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5624710
 
 ---
 
